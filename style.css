@@ -1,0 +1,13 @@
+.item{
+    position:relative;
+    top:10%;
+    left:60%;
+    transform:translate(-10%,-10%);
+    opacity: 10;
+ }
+ .grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
